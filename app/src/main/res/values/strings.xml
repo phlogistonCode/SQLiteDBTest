@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SQLiteDBTest</string>
+    <string name="button">Button</string>
+    <string name="text">Text</string>
+    <string name="btnSQLite">Go to SQLite</string>
+    <string name="num">Номер</string>
+    <string name="name">Имя</string>
+    <string name="setNum">Введите номер</string>
+    <string name="setName">Введите имя</string>
+    <string name="add">Добавить</string>
+    <string name="read">Прочитать</string>
+    <string name="clear">Очистить</string>
+    <string name="_id">ID</string>
+    <string name="upd">Обновить</string>
+    <string name="del">Удалить</string>
+    <string name="setID">Введите ID</string>
+</resources>
